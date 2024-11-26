@@ -1,0 +1,22 @@
+.center{
+    display: inline-flex;
+    padding: 30px;
+    background-color: blue;
+    margin: 20px;
+    box-shadow: 50px wheat;
+}
+.con{
+    display: inline-flex;
+    padding-top: 40px;
+    background-color: blue;
+    margin-top: -70px;
+
+    
+}
+h1{
+    
+
+}
+.c{
+    background-color: brown;
+}
